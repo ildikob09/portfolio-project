@@ -1,7 +1,15 @@
+:root {
+  --default-font: "Poppins", sans-serif;
+}
+
+body {
+  font-family: var(--default-font);
+}
 h1 {
   font-family: "Playfair Display", serif;
 }
 
-p {
-  font-family: "Poppins", sans-serif;
+.hero {
+  text-align: center;
+  background-color: aliceblue;
 }
