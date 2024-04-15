@@ -7,9 +7,34 @@ body {
 }
 h1 {
   font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 96px;
+  margin-bottom: 30px;
 }
 
 .hero {
   text-align: center;
-  background-color: aliceblue;
+  background-color: #f9f7fe;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 24px;
+  color: #272142;
+  margin-bottom: 30px;
+}
+
+.contact-button {
+  font-size: 18px;
+  background-color: #6c63ff;
+  border: none;
+  border-radius: 4px;
+  padding: 18px 30px;
+}
+.hero {
+  padding: 200px;
 }
