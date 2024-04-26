@@ -17,6 +17,7 @@ h1 {
 .hero {
   text-align: center;
   background-color: #f9f7fe;
+  padding: 120px 20px;
 }
 
 h2 {
@@ -61,7 +62,6 @@ p {
   color: white;
 }
 .hero {
-  padding: 200px 20px;
 }
 
 .btn-branding {
@@ -171,7 +171,7 @@ nav {
 nav a {
   text-decoration: none;
   color: #272142;
-  opacity: 70%;
+  /*opacity: 70%;*/
   transition: all 100ms ease-in-out;
 }
 
