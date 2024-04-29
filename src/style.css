@@ -61,7 +61,11 @@ p {
   padding: 18px 30px;
   color: white;
 }
-.hero {
+
+.contact-button:hover {
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
 }
 
 .btn-branding {
@@ -70,6 +74,11 @@ p {
   border: 1px solid var(--primary-color);
   border-radius: 4px;
   padding: 18px 30px;
+}
+
+.btn-branding:hover {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 .row p {
